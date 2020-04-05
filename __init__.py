@@ -1,4 +1,4 @@
-from flask import Flask__
+from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 
 #sql init here
